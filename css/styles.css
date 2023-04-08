@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: darkorange;
+}
+header{
+    border-radius:20px;
+    padding:20px;
+    background-color: azure;
+    margin:20px;
+}
+div{
+    border-radius:20px;
+    padding:20px;
+    background-color: khaki;
+    margin:20px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
