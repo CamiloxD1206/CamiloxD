@@ -24,3 +24,10 @@ footer{
     display: flex;
     justify-content: center;
 }
+aside{
+    border-radius:20px;
+    padding:20px;
+    background-color: rgb(236, 222, 90);
+    margin:20px;
+
+}
